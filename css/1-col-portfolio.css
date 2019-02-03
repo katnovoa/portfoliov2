@@ -12,8 +12,9 @@ body {
 }
 
 .logo {
-  width: 101px;
+  width: 1.24rem;
   margin-right: 1em;
+  color: #35afce;
 }
 
 @media (min-width: 992px) {
